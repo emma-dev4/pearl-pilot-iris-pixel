@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Quentro",
+      "hasCanvas": false,
+      "bodyTextLen": 309,
+      "bodyTextHash": "fa01c2887f7a12f5d6c10abf98c839849e6035f0f54adfcf1cef7e5208ba676f",
+      "bodyTextPrefix": "My Tickets Upcoming Past Octubre 2026 4 entradas miércoles 7 20:",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Quentro",
+      "hasCanvas": false,
+      "bodyTextLen": 309,
+      "bodyTextHash": "fa01c2887f7a12f5d6c10abf98c839849e6035f0f54adfcf1cef7e5208ba676f",
+      "bodyTextPrefix": "My Tickets Upcoming Past Octubre 2026 4 entradas miércoles 7 20:",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
